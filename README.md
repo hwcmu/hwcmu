@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hairong Wang</h1>
-<h3 align="left">I am a Ph.D. Data Scientist dedicated to deploying actionable AI at the intersection of Environmental Sustainability and Healthcare Innovation. With a Ph.D. from CMU and an M.S. from Georgia Tech, I bridge the gap between theoretical research and real-world application. I focus on translating complex data into scalable solutions that protect both our planet and its people.</h3>
+<h3 align="center">Ph.D. & Data Scientist | Deploying AI for Environmental & Healthcare Impact</h3>
+With a Ph.D. from CMU and an M.S. from Georgia Tech, I bridge the gap between theoretical research and real-world application. I focus on translating complex data into scalable solutions that protect both our planet and its people.
 
 - 🔭 I’m currently working on **Building end-to-end ML solutions for Healthcare and Environmental domains**
 
