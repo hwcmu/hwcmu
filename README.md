@@ -10,15 +10,15 @@ With a Ph.D. from CMU and an M.S. from Georgia Tech, I bridge the gap between th
 
 - 🤝 I’m looking for help with **GEM (Energy dataset)/PFAS related publications**
 
-- 📄 Check out my full publication list at [My Website](https://hwcmu.github.io/publications)
+- 📄 Check out my full publication list at [My Publication](https://hwcmu.github.io/publications)
 
-- 👨‍💻 All of my projects are available at [https://hwcmu.github.io](https://hwcmu.github.io)
+- 👨‍💻 All of my projects are available at [My Website](https://hwcmu.github.io)
 
 - 💬 Ask me about **Applying ML & Statistics to solve Environmental & Healthcare challenges, Data Visualization strategies, or my Ph.D. research journey**
 
 - 📫 How to reach me **hairongcmu@gmail.com**
 
-- 📄 Know about my experiences [https://hwcmu.github.io/resume.pdf](https://hwcmu.github.io/resume.pdf)
+- 📄 Know about my experiences [My Resume](https://hwcmu.github.io/resume.pdf)
   
 
 <h3 align="left">Connect with me:</h3>
