@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hairong Wang</h1>
-<h3 align="center">Data Analyst at the University of Pittsburgh | Healthcare AI, Biostatistics, and Environmental Data Science</h3>
-With a Ph.D. from CMU and an M.S. from Georgia Tech, I bridge research methods and applied analytics. I currently work as a Data Analyst at the University of Pittsburgh, with a focus on healthcare AI, clinical data workflows, biostatistical analysis, and environmental data science.
+<h3 align="center">Data Analyst at the University of Pittsburgh · Biostatistician at VA Pittsburgh</h3>
+With a Ph.D. from CMU and an M.S. from Georgia Tech, I build reproducible workflows that turn clinical questions into reliable data evidence. My work combines cohort design, biostatistics, machine learning, clinical AI evaluation, and AI-assisted research workflows, with prior applied data science work in environmental health, PFAS, energy transition, and sustainability analytics.
 
-- 🔭 I’m currently working on **healthcare AI, clinical analytics, and applied machine learning workflows**
+- 🔭 I’m currently working on **clinical AI, real-world evidence, biostatistics, and reproducible healthcare data workflows**
 
-- 🌱 I’m currently learning **GT-OMSA program**
+- 🌱 I’m developing toward **Clinical AI & Real-World Evidence Workflow Science**
 
-- 👯 I’m looking to collaborate on **data science, AI, and publication projects in healthcare, medicine, and environmental topics**
+- 👯 I’m looking to collaborate on **clinical data science, healthcare AI evaluation, cohort design, and AI-assisted research workflows**
 
-- 🤝 I’m also interested in **GEM energy data, PFAS, and environmental-health research collaborations**
+- 🤝 Research background: **applied data science, machine learning, and AI-assisted analytics for environmental health, PFAS, energy transition, and sustainability problems**
 
-- 📄 Check out my full publication list at [My Publication](https://hwcmu.github.io/publications)
+- 📄 Check out my full publication list at [My Publications](https://hwcmu.github.io/publications)
 
 - 👨‍💻 All of my projects are available at [My Website](https://hwcmu.github.io)
 
-- 💬 Ask me about **healthcare AI, clinical statistics, reproducible analysis workflows, environmental data science, or my Ph.D. research journey**
+- 💬 Ask me about **clinical AI workflows, real-world evidence, biostatistics, cohort design, reproducible analysis pipelines, and applied ML/AI analytics**
 
 - 📫 How to reach me **hairongcmu@gmail.com**
 
