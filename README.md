@@ -37,33 +37,10 @@ Representative work:
 - Autonomous soil sampling and analysis
 - Plant nanocarriers and applied environmental technologies
 
-## Public Assets
-
-| Asset | Focus | Status | Link |
-|---|---|---|---|
-| Clinical AI and Healthcare Analytics | Publications and research framing for clinical prediction, EHR/NLP modeling, and emergency care analytics. | Active | [Research page](https://hwcmu.github.io/research/) |
-| Publications | Selected publications plus full publication list with DOI and code links. | Active | [Publication list](https://hwcmu.github.io/publications/) |
-| Clinical Model Evaluation Toolkit | Calibration, threshold analysis, subgroup evaluation, and clinical model reporting templates. | Planned |  |
-| Clinical NLP Field Notes | Notes on clinical text, label definitions, temporal context, privacy, and error analysis. | Planned |  |
-| Clinical Analytics Playbook | Reusable patterns for clinical cohort design, variable definition, modeling, and reporting. | Planned |  |
-| AI Research Workflow Lab | Workflows for Table One generation, statistical analysis plans, manuscript review, reviewer response, and literature synthesis. | Planned |  |
-| System Transition Analytics | Energy transition, sustainability analytics, and stock-based system metrics. | Active | [Research page](https://hwcmu.github.io/research/#sustainability--system-level-analytics) |
-
-## Method Foundation
-
-OMSA is not a standalone course portfolio here. It is the method layer behind the public work:
-
-- Healthcare data science and EHR modeling
-- Clinical NLP and multimodal analytics
-- Statistical learning and high-dimensional modeling
-- Visualization, simulation, and workflow design
-- Analytics-to-decision communication
-
-See the [OMSA Method Map](https://hwcmu.github.io/method-map/) for the working structure.
-
 ## Links
 
 - Website: [hwcmu.github.io](https://hwcmu.github.io)
+- Research: [hwcmu.github.io/research](https://hwcmu.github.io/research/)
 - Publications: [hwcmu.github.io/publications](https://hwcmu.github.io/publications/)
 - Resume: [hwcmu.github.io/docs/hairong_resume.pdf](https://hwcmu.github.io/docs/hairong_resume.pdf)
 - LinkedIn: [linkedin.com/in/hairong-wang](https://www.linkedin.com/in/hairong-wang/)
