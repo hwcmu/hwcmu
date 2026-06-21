@@ -14,24 +14,10 @@ These days, I am especially interested in:
 
 ## Start Here
 
-| Area | What you'll find |
-| --- | --- |
-| [Clinical AI](https://hwcmu.github.io/clinical-ai/) | Healthcare prediction, EHR/NLP work, and clinical model evaluation |
-| [Workflows](https://hwcmu.github.io/workflows/) | Reusable research and biostatistics workflows |
-| [Systems](https://hwcmu.github.io/systems/) | Environmental, energy, LCA, and complex-system analytics |
-| [Notes](https://hwcmu.github.io/blogs/) | Short essays and method notes |
-| [Papers](https://hwcmu.github.io/publications/) | Publications, DOIs, and related code |
-| [About](https://hwcmu.github.io/about/) | Bio, CV, and contact |
-
-## A Few Things I Like Building
-
-- Prediction models that clinicians can interrogate, not just admire
-- Data workflows that survive revision, peer review, and the second cup of coffee
-- Research notes that explain what a method can do, and just as importantly, what it cannot do
-
-## Links
-
-- Website: [hwcmu.github.io](https://hwcmu.github.io)
-- Resume: [hwcmu.github.io/docs/hairong_resume.pdf](https://hwcmu.github.io/docs/hairong_resume.pdf)
-- LinkedIn: [linkedin.com/in/hairong-wang](https://www.linkedin.com/in/hairong-wang/)
-- Email: **hairongcmu@gmail.com**
+[Website](https://hwcmu.github.io/) ·
+[Clinical AI](https://hwcmu.github.io/clinical-ai/) ·
+[Workflows](https://hwcmu.github.io/workflows/) ·
+[Systems](https://hwcmu.github.io/systems/) ·
+[Notes](https://hwcmu.github.io/blogs/) ·
+[Papers](https://hwcmu.github.io/publications/) ·
+[About](https://hwcmu.github.io/about/)
