@@ -15,9 +15,7 @@ These days, I am especially interested in:
 ## Start Here
 
 [Website](https://hwcmu.github.io/) ·
-[Clinical AI](https://hwcmu.github.io/clinical-ai/) ·
-[Workflows](https://hwcmu.github.io/workflows/) ·
-[Systems](https://hwcmu.github.io/systems/) ·
+[Systems Analytics](https://hwcmu.github.io/systems/) ·
 [Notes](https://hwcmu.github.io/blogs/) ·
 [Papers](https://hwcmu.github.io/publications/) ·
 [About](https://hwcmu.github.io/about/)
