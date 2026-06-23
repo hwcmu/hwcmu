@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hairong</h1>
-<h3 align="center">Data Analyst at the University of Pittsburgh · Biostatistician at VA Pittsburgh</h3>
+<h3 align="center">Data Analyst at the University of Pittsburgh</h3>
 
 I turn messy clinical and research data into practical models, reproducible workflows, and decisions people can actually use.
 
